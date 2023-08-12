@@ -1,6 +1,6 @@
 # DayZ
-- Project Lucifer -
-- Licensed Build -
+- Project Lucifer
+- Licensed Build
 
 General Location
 - Next to North West Airfield
