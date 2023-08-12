@@ -3,7 +3,7 @@ Project Lucifer's Licensed Builds
 
 Fetures Bellow
 
-its a player base in barn next to North West Airfield IN A BARN 
+its a player base in barn next to North West Airfield 
 has snipers m4 crossbow food ammo 
 bdu jacket & pants 
 fortification 
