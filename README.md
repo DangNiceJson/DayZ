@@ -1,7 +1,7 @@
 # DayZ
 Project Lucifer's Licensed Builds
 
-Fetures Bellow
+Includes
 
 its a player base in barn next to North West Airfield
 - Winchester M4A1 Crossbow
