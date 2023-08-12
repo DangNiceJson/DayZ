@@ -1,4 +1,4 @@
-# DayZ
+# DayZ NWAF BARN BUILD
 - Project Lucifer
 - Licensed Build
 
