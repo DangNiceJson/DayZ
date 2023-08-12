@@ -1,9 +1,11 @@
-# DayZ
-- Project Lucifer 
-- Licensed Build
+     # DayZ
+- Project Lucifer -
+- Licensed Build -
 
-- Descriptionplayer 
+      General Location
 - Next to North West Airfield
+
+          Loot
 - Winchester M4A1 Crossbow
 - Food Ammo 
 - BDU jacket & pants 
